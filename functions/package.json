@@ -15,7 +15,7 @@
     "firebase-admin": "~6.4.0",
     "firebase-functions": "^2.1.0",
     "node-esi-stackdriver": "^1.0.27",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "tslib": "^1.9.3"
   },
   "devDependencies": {
